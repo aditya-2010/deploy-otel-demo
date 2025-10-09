@@ -26,6 +26,8 @@ This project simulates a real-world DevOps workflow for cloud-native microservic
 
 ### 2. **Infrastructure Setup with Terraform**
 
+![Otel demo architecture](./infra/otel-demo-architecture.png)
+
 * Provisioned an **Amazon EKS Cluster** with Terraform.
 * Created supporting resources:
 
